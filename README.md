@@ -16,4 +16,4 @@ I didn't upload any dataset or trained model since some are very large.
 4. 📁 [**Clustering**](https://github.com/sunnywinterdays/MyDataScience-ENGLISH/tree/main/4%20Clustering): Understand customers’ buying behaviors by developing Clustering Models.  
 5. 📁 [**Only Visualizations**](https://github.com/sunnywinterdays/MyDataScience-ENGLISH/tree/main/5%20Only%20Visualizations)  
 
-[11/03/2023] นำไปแจกใน https://pantip.com/topic/41909411 แล้วครับ
+[11 Mar 2023] นำไปแจกใน https://pantip.com/topic/41909411 แล้วครับ
