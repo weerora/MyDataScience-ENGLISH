@@ -6,7 +6,7 @@
 
 จึงนำมาแจก **เพื่อเผยแพร่ผลงานเป็นสาธารณะแต่ไม่เสียสิทธิ์ในความเป็นเจ้าของ**
 
-### MyDataScience-ENGLISH
+### MyDataScience-ENGLISH 🇺🇸
 I didn't upload any dataset or trained model since some are very large.
 
 **Folders' descriptions:**  
